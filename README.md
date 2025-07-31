@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abela16&show_icons=true&theme=tokyonight" alt="Dude's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dude&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abela16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abela16&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
