@@ -10,9 +10,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dude&show_icons=true&theme=tokyonight" alt="Dude's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abela16&show_icons=true&theme=tokyonight" alt="Dude's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=dude&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Abela16&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dude&layout=compact&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abela16&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
