@@ -15,6 +15,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abela16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
 </p>
+---
+
+### 📜 Certifications
+- 🎓 [Udacity Certificate](http://www.udacity.com/certificate/e/38d50158-6dd4-11f0-957c-5f6a2f1607a7)
+
+---
+
+### 📫 Let’s Connect
 <p align="left">
   <a href="https://linkedin.com/in/abel-yohanis-9227b7357" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
