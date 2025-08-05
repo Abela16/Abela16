@@ -2,10 +2,17 @@
 <h3 align="center">Developer | Frontend & Backend explorer</h3>
 
 ---
+## 🙋‍♂️ About Me
+
+- 🎓 I'm a 3rd-year Computer Science student  
+- 🧑‍💻 Full Stack Developer — comfortable working across frontend & backend  
+- 🚧 Currently building projects to sharpen my skills and explore new tech  
+- 🌱 Always learning — from frameworks to clean architecture and best practices
+
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,python,django,java,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git" alt="Tech stack" />
 </p>
 
 ### 📊 GitHub Stats
