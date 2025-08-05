@@ -22,7 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abela16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
 </p>
----
 
 ### 📜 Certifications
 - 🎓 [Udacity Certificate](http://www.udacity.com/certificate/e/38d50158-6dd4-11f0-957c-5f6a2f1607a7)
