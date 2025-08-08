@@ -19,8 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abela16&show_icons=true&theme=tokyonight" alt="Dude's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abela16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
 </p>
 
 ### 📜 Certifications
