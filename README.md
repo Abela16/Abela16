@@ -15,12 +15,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git" alt="Tech stack" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abela16&show_icons=true&theme=tokyonight" alt="Dude's GitHub stats" />
-  <br/>
-</p>
-
 ### 📜 Certifications
 - 🎓 [Udacity Certificate](http://www.udacity.com/certificate/e/38d50158-6dd4-11f0-957c-5f6a2f1607a7)
 
